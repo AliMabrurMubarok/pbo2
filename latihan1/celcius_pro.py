@@ -1,5 +1,6 @@
 #nama : ALI MABRUR MUBAROK
 #nim  : 210511112
+#kelas : R3
 
 class Celcius :
     @staticmethod
